@@ -1,0 +1,12 @@
+name: FIT3164-CAD-Project
+title: FIT3164-CAD-Project
+username:
+account: cadpred
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3041098
+bundleId: 3781813
+url: https://cadpred.shinyapps.io/FIT3164-CAD-Project/
+when: 1603683785.72872
+asMultiple: FALSE
+asStatic: FALSE
